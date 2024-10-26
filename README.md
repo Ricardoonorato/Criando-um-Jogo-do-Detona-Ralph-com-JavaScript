@@ -6,4 +6,4 @@ Tecnologias usadas nesse projeto:
 
 - **HTML5**
 - **CSS3**
-- **JavaScript
+- **JavaScript**
